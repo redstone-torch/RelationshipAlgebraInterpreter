@@ -4,7 +4,7 @@ open System
 open Util
 open RelationShip
 
-/// 条件表达式 用于关系代数中的Selection操作
+/// 条件表达式 用于关系代数中的select操作
 type ConditionExpr =
     | Value of obj
     | IndexVaribale of int
