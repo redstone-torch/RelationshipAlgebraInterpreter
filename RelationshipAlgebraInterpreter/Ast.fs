@@ -9,7 +9,7 @@ type AstLiteral =
     | String of string
     | Null
 
-/// 实际值
+/// 条件
 type AstCondition =
     | Literal of AstLiteral
     | Var of identity: string * offset: int
