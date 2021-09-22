@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RelationshipAlgebraInterpreter", "RelationshipAlgebraInterpreter\RelationshipAlgebraInterpreter.fsproj", "{E4A04433-8FE0-44E1-8044-55B7A6CA8235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A04433-8FE0-44E1-8044-55B7A6CA8235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A04433-8FE0-44E1-8044-55B7A6CA8235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A04433-8FE0-44E1-8044-55B7A6CA8235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A04433-8FE0-44E1-8044-55B7A6CA8235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D292A318-42E5-4024-B624-581DF943EB14}
+	EndGlobalSection
+EndGlobal
